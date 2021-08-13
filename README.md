@@ -12,7 +12,7 @@ Important concept covered and implemented:
 
 3. Bootstrap Grid: Bootstrap’s grid system uses a series of containers and rows to layout and align content in a 12-column system.
 
-4. JQUERY: Made use of the event handling function to animate elements in the HTML document while implementing java script libraries.  
+4. JQUERY: Made use of the event handling function to animate elements in the HTML document while implementing javascript libraries.  
 
 <h1>Build Instructions</h1>
 
